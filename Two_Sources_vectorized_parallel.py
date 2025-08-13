@@ -2,10 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Two-source plume simulation using a Mathieu-series solution.
-
-Adds a parameterized run(...) so this module can be imported and executed
-from a notebook with caller-provided values. The original structure and math
-are preserved as much as possible.
 """
 
 import numpy as np
